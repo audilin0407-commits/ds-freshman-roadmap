@@ -10,7 +10,7 @@ print(nums)
 nums.append(5)
 print(nums)
 # 3. 印出排序後的結果
-print(nums)
+print(sorted(nums))
 
 
 
