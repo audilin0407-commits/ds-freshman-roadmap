@@ -4,7 +4,6 @@ for i in range(1, 101):
     # 在這裡加入你的條件
     if i % 3 == 0:
         result.append(i)
-    pass
 
 print(result)
 
